@@ -13,7 +13,6 @@ function surprise_back() {
     document.getElementById("left").style.display = "flex";
     document.getElementById("right").style.display = "block";
     document.getElementById("after-button").style.display = "none";
-    document.getElementById('woop').style.display = "none";
 
     document.getElementById('video-play').pause();
 }
